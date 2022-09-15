@@ -76,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/article9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/article9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/article9.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,8 +131,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a4b820e545db15b0",
+  "active": "660b69d9046ed049",
   "lastOpenFiles": [
+    "posts/article9.md",
     "zh/guide/encrypt.md",
     "zh/guide/disable.md",
     "guide/disable.md"
