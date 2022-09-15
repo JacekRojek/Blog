@@ -7,11 +7,10 @@
         "id": "a9d4cbc33239ef55",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "posts/article9.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/posts/article9.md",
+            "staged": false
           }
         }
       }
@@ -120,15 +119,23 @@
                 "file": "posts/article9.md"
               }
             }
+          },
+          {
+            "id": "a4b820e545db15b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1b3f72527caae3d1",
+  "active": "a4b820e545db15b0",
   "lastOpenFiles": [
     "zh/guide/encrypt.md",
     "zh/guide/disable.md",

@@ -7,8 +7,12 @@
         "id": "73e885a5a6c0e183",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/posts/article9.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/posts/article9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/posts/article9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +116,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "docs/posts/article9.md"
+              }
+            }
+          },
+          {
+            "id": "fd491491f0115752",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e3d13eb4f2d6de52",
+  "active": "73e885a5a6c0e183",
   "lastOpenFiles": []
 }
