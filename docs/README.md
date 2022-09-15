@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: Personal Blog
+heroText: Personal Blog Test
 tagline: 
 heroFullScreen: true
 projects:

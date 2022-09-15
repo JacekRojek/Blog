@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "e1bb433aadbc6e9d",
+    "id": "deeccaef385df06b",
     "type": "split",
     "children": [
       {
-        "id": "a9d4cbc33239ef55",
+        "id": "73e885a5a6c0e183",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "posts/article9.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b59482a677dbf33e",
+    "id": "3022b36b56d3f3fd",
     "type": "split",
     "children": [
       {
-        "id": "48ffaa9fc7d47846",
+        "id": "51dcb9ecb6b0fb4b",
         "type": "tabs",
         "children": [
           {
-            "id": "660b69d9046ed049",
+            "id": "e3d13eb4f2d6de52",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "2b9889b9e9b46649",
+            "id": "8a59e3a65742704d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "03f53f3e7c9b1ddb",
+            "id": "7ebe312f88235684",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "0dbd8d67c70a074d",
+    "id": "ed917ffd5a055daa",
     "type": "split",
     "children": [
       {
-        "id": "a58e613f1adeeb00",
+        "id": "1a6130268c10a6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "300d7900793bdaba",
+            "id": "9d69f257f9b3f89f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/article9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +84,18 @@
             }
           },
           {
-            "id": "e3438d55f9e6871a",
+            "id": "2ebd5f3a7a991d7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/article9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "78a8de768796e8bd",
+            "id": "968646d47f4a4099",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,26 +106,19 @@
             }
           },
           {
-            "id": "1b3f72527caae3d1",
+            "id": "a7c5afe967f42fda",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/article9.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1b3f72527caae3d1",
-  "lastOpenFiles": [
-    "zh/guide/encrypt.md",
-    "zh/guide/disable.md",
-    "guide/disable.md"
-  ]
+  "active": "e3d13eb4f2d6de52",
+  "lastOpenFiles": []
 }
